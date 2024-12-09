@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @BPhcHenry
-- 👀 I’m interested in coding and competitive coding!
+- 👋 Hi, I’m @BPhc
+
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
